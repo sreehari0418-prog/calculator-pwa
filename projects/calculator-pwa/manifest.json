@@ -1,6 +1,7 @@
 {
   "name": "Simple Calculator",
   "short_name": "Calculator",
+  "description": "A premium, simple and elegant calculator PWA.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f0c29",
